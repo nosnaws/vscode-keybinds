@@ -1,0 +1,66 @@
+[
+    {
+        "key": "ctrl+k", "command": "cursorRight", "when": "editorTextFocus"
+    },
+    {
+        "key": "ctrl+j", "command": "cursorLeft", "when": "editorTextFocus"
+    },
+    {
+        "key": "ctrl+h", "command": "cursorUp", "when": "editorTextFocus"
+    },
+    {
+        "key": "ctrl+l", "command": "cursorDown", "when": "editorTextFocus"
+    },
+    {
+        "key": "alt+k", "command": "cursorWordStartRight", "when": "editorTextFocus"
+    },
+    {
+        "key": "alt+j", "command": "cursorWordStartLeft", "when": "editorTextFocus"
+    },
+    {
+        "key": "alt+h", "command": "cursorWordEndLeft", "when": "editorTextFocus"
+    },
+    {
+        "key": "alt+l", "command": "cursorWordEndRight", "when": "editorTextFocus"
+    },
+    {
+        "key": "alt+i", "command": "cursorLineStart", "when": "editorTextFocus"
+    },
+    {
+        "key": "alt+o", "command": "cursorLineEnd", "when": "editorTextFocus"
+    },
+    {
+        "key": "shift+ctrl+k", "command": "cursorRightSelect", "when": "editorTextFocus"
+    },
+    {
+        "key": "shift+ctrl+j", "command": "cursorLeftSelect", "when": "editorTextFocus"
+    },
+    {
+        "key": "shift+ctrl+h", "command": "cursorUpSelect", "when": "editorTextFocus"
+    },
+    {
+        "key": "shift+ctrl+l", "command": "cursorDownSelect", "when": "editorTextFocus"
+    },
+    {
+        "key": "shift+alt+k", "command": "cursorWordStartRightSelect", "when": "editorTextFocus"
+    },
+    {
+        "key": "shift+alt+j", "command": "cursorWordStartLeftSelect", "when": "editorTextFocus"
+    },
+    {
+        "key": "shift+alt+h", "command": "cursorWordEndLeftSelect", "when": "editorTextFocus"
+    },
+    {
+        "key": "shift+alt+l", "command": "cursorWordEndRightSelect", "when": "editorTextFocus"
+    },
+    {
+        "key": "shift+alt+i", "command": "cursorLineStartSelect", "when": "editorTextFocus"
+    },
+    {
+        "key": "shift+alt+o", "command": "cursorLineEndSelect", "when": "editorTextFocus"
+    },
+    {
+        "key": "alt+w", "command": "expandLineSelection", "when": "editorTextFocus"
+    }
+]
+
