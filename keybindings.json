@@ -24,10 +24,10 @@
         "key": "alt+l", "command": "cursorWordEndRight", "when": "editorTextFocus"
     },
     {
-        "key": "alt+i", "command": "cursorLineStart", "when": "editorTextFocus"
+        "key": "alt+b", "command": "cursorLineStart", "when": "editorTextFocus"
     },
     {
-        "key": "alt+o", "command": "cursorLineEnd", "when": "editorTextFocus"
+        "key": "alt+e", "command": "cursorLineEnd", "when": "editorTextFocus"
     },
     {
         "key": "shift+ctrl+k", "command": "cursorRightSelect", "when": "editorTextFocus"
@@ -54,10 +54,10 @@
         "key": "shift+alt+l", "command": "cursorWordEndRightSelect", "when": "editorTextFocus"
     },
     {
-        "key": "shift+alt+i", "command": "cursorLineStartSelect", "when": "editorTextFocus"
+        "key": "shift+alt+b", "command": "cursorLineStartSelect", "when": "editorTextFocus"
     },
     {
-        "key": "shift+alt+o", "command": "cursorLineEndSelect", "when": "editorTextFocus"
+        "key": "shift+alt+e", "command": "cursorLineEndSelect", "when": "editorTextFocus"
     },
     {
         "key": "alt+w", "command": "expandLineSelection", "when": "editorTextFocus"
